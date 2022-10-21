@@ -12,11 +12,11 @@ TODOS :
   
 USAGE :
 
+```
 CQRSCommandBuilder <<namespace>> <<commandDtoName>>
 
 1) Creates a directory that you use for the commandDtoName
 2) Creates a command class file as <<commandDtoName>>Command.cs
 2) Creates a dto class file as <<commandDtoName>>Dto.cs
-
-  
+```
   
