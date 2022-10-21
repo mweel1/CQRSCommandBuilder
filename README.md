@@ -1,4 +1,4 @@
-# CQRSCommandBuilder
+# Clean Archiecture CQRSCommandBuilder
 CQRS Command Builder
 
 This will build your CQRS Command and DTO
