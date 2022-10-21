@@ -11,7 +11,7 @@ TODOS :
   
 USAGE :
 
-CQRSCommandBuilder <namespace> <commandDtoName>
+CQRSCommandBuilder namespace commandDtoName
   
   
   
